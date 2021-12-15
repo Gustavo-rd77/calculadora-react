@@ -2,7 +2,7 @@
 
 Este proyecto se realizó usando ReactJS con la finalidad de aprender algunos conceptos sobre esta librería. 
 
-### Unos de los conceptos que se aprendieron fueron: 
+### Algunos de los conceptos que se aprendieron fueron: 
 
 Creación de componentes 
 
